@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Appliedincap\Appliedincap\bin\Debug\Appliedincap.exe.config
+C:\Users\Admin\source\repos\Appliedincap\Appliedincap\bin\Debug\Appliedincap.exe
+C:\Users\Admin\source\repos\Appliedincap\Appliedincap\bin\Debug\Appliedincap.pdb
+C:\Users\Admin\source\repos\Appliedincap\Appliedincap\obj\Debug\Appliedincap.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Appliedincap\Appliedincap\obj\Debug\Appliedincap.Form1.resources
+C:\Users\Admin\source\repos\Appliedincap\Appliedincap\obj\Debug\Appliedincap.Properties.Resources.resources
+C:\Users\Admin\source\repos\Appliedincap\Appliedincap\obj\Debug\Appliedincap.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Appliedincap\Appliedincap\obj\Debug\Appliedincap.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Appliedincap\Appliedincap\obj\Debug\Appliedincap.exe
+C:\Users\Admin\source\repos\Appliedincap\Appliedincap\obj\Debug\Appliedincap.pdb
